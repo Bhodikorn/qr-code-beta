@@ -1,3 +1,3 @@
 ▶️ To Run:
-pip install qrcode[pil] crcmod pillow
-py qr.py
+	pip install qrcode[pil] crcmod pillow
+	py qr.py

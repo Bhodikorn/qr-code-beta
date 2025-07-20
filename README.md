@@ -7,3 +7,9 @@ To set up and run the QR code generator script, follow these steps:
 
    ```bash
    pip install qrcode[pil] crcmod pillow
+
+2. **Just Run**  
+  Depend on your python [py , python, python3]:
+
+   ```bash
+   py qr.py
